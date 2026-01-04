@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Angels",
+  "base_artist": "ザ・エックス・エックス",
+  "createdAt": "2026-01-04T12:58:23.116328Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crazy Angels",
+      "artist": "Carrie Underwood",
+      "has_synced": true,
+      "path": "select/01_Crazy_Angels_Carrie_Underwood.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Angels Workin' Overtime",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/02_Angels_Workin'_Overtime_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It Wasn't God Who Made Honky Tonk Angels",
+      "artist": "Kitty Wells",
+      "has_synced": true,
+      "path": "select/03_It_Wasn't_God_Who_Made_Honky_Tonk_Angels_Kitty_Wells.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It Wasn't God Who Made Honky Tonk Angels (1952 Single Version)",
+      "artist": "Kitty Wells",
+      "has_synced": false,
+      "path": "select/04_It_Wasn't_God_Who_Made_Honky_Tonk_Angels_(1952_Single_Version)_Kitty_Wells.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It Wasn't God Who Made Honky Tonk Angels (Single Version)",
+      "artist": "Kitty Wells",
+      "has_synced": false,
+      "path": "select/05_It_Wasn't_God_Who_Made_Honky_Tonk_Angels_(Single_Version)_Kitty_Wells.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Seven Spanish Angels",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/06_Seven_Spanish_Angels_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Seven Spanish Angels",
+      "artist": "Willie Nelson with Ray Charles",
+      "has_synced": true,
+      "path": "select/07_Seven_Spanish_Angels_Willie_Nelson_with_Ray_Charles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Seven Spanish Angels (with Ray Charles)",
+      "artist": "Willie Nelson with Ray Charles",
+      "has_synced": true,
+      "path": "select/08_Seven_Spanish_Angels_(with_Ray_Charles)_Willie_Nelson_with_Ray_Charles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ten Thousand Angels",
+      "artist": "Mindy McCready",
+      "has_synced": true,
+      "path": "select/09_Ten_Thousand_Angels_Mindy_McCready.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ten Thousand Angels (Album Version)",
+      "artist": "Mindy McCready",
+      "has_synced": true,
+      "path": "select/10_Ten_Thousand_Angels_(Album_Version)_Mindy_McCready.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "When I Think About Angels",
+      "artist": "Jamie O'Neal",
+      "has_synced": true,
+      "path": "select/11_When_I_Think_About_Angels_Jamie_O'Neal.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wild Angels",
+      "artist": "Martina McBride",
+      "has_synced": false,
+      "path": "select/12_Wild_Angels_Martina_McBride.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Black Angel's Death Song",
+      "artist": "The Velvet Underground",
+      "has_synced": true,
+      "path": "select/13_The_Black_Angel's_Death_Song_The_Velvet_Underground.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Angels",
+      "artist": "The xx",
+      "has_synced": false,
+      "path": "select/pl_01_Angels_The_xx.txt"
+    }
+  ]
+}
